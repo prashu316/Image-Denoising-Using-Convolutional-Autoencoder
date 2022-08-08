@@ -12,5 +12,5 @@ Result:
 
 Sample Input(top) and Output(bottom): ![denoise-git](https://user-images.githubusercontent.com/57295909/183428018-5b407ab8-4b42-4ab0-9507-1dc47ba09fc9.png)
 
-The python notebook with the code and output is present in this folder.
+The python notebook with the code and output is present in this folder along with a raw file containing only the code.
 
